@@ -1,6 +1,6 @@
 # Employee Attrition & Retention Predictive Modeling (Salifort Motors Capstone)
 
-**Identifying 90.4% of At-Risk Employees via Leak-Resistant Random Forest & PACE Exploratory Data Analysis ($N = 14,999$)**
+**Identifying 90.4% of At-Risk Employees via Leak-Resistant Random Forest & PACE Exploratory Data Analysis (N = 14,999)**
 
 - **Author:** Juan Pablo Larios (*Google Advanced Data Analytics Certified — [Verify Credly Badge](https://www.credly.com/badges/625bc826-6541-4c9b-b496-e057e9f2f25e/public_url)*)
 - **Methodology:** PACE Workflow (`Plan → Analyze → Construct → Execute`)
